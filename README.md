@@ -30,7 +30,7 @@ Open it in Microsoft Excel.
 
 👨‍💻 Author Sunny Gupta
 
-LinkedIn: ()
+LinkedIn: (https://www.linkedin.com/in/poonam-gupta-964252353)
 
 Email: (mailto:poonamguptapoonam51@gmail.com)
 
