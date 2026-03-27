@@ -28,7 +28,7 @@ Genre Analysis: Breakdown of content variety to identify niche vs. mainstream ca
 
 Open it in Microsoft Excel.
 
-👨‍💻 Author Sunny Gupta
+👨‍💻 Author Poonam Gupta
 
 LinkedIn: (https://www.linkedin.com/in/poonam-gupta-964252353)
 
